@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Tech Bucket**
 
-- 🌱 I’m currently learning **MERN, Angular.**
+- 🌱 I’m currently learning **MERN, React Native.**
 
 - 💬 Ask me about **React, Tailwind etc.**
 
