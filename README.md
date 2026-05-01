@@ -30,8 +30,6 @@ I'm a passionate **Front-end Developer** with **3+ years of experience** buildin
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/4xKDY4Pz7lCPjRKYGG/giphy.gif?cid=790b761135c957f21dc69b8025e6a5dd2c4101855bc53865&rid=giphy.gif&ct=g">
-
 ## 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
@@ -39,6 +37,8 @@ I'm a passionate **Front-end Developer** with **3+ years of experience** buildin
 | **[Portfolio React](https://github.com/marufibnehossain/Portfolio_React)** | Professional portfolio showcasing my projects and skills | React, Tailwind CSS, Responsive Design |
 | **[Craftkit](https://github.com/marufibnehossain/Craftkit)** | E-commerce platform with modern UI/UX | MERN Stack, MongoDB, Node.js |
 | **[Spinkit Shop](https://github.com/marufibnehossain/Spinkit-Shop)** | Full-featured shopping application | React, Express, Backend Integration |
+
+<!-- <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/4xKDY4Pz7lCPjRKYGG/giphy.gif?cid=790b761135c957f21dc69b8025e6a5dd2c4101855bc53865&rid=giphy.gif&ct=g"> -->
 
 ---
 
@@ -82,7 +82,7 @@ I'm a passionate **Front-end Developer** with **3+ years of experience** buildin
 
 ## 📊 GitHub Statistics
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marufibnehossain&show_icons=true&locale=en&layout=compact" alt="marufibnehossain" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marufibnehossain&show_icons=true&locale=en&layout=compact" alt="marufibnehossain" />
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=marufibnehossain&show_icons=true&locale=en" alt="marufibnehossain" /> -->
 
@@ -92,13 +92,11 @@ I'm a passionate **Front-end Developer** with **3+ years of experience** buildin
 
 ## 🔗 Connect with Me
 
-<p align="center">
-<a href="https://twitter.com/marufibnhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/marufibnhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" /></a>
-<a href="https://codesandbox.com/marufibnehossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="codesandbox" height="40" width="40" /></a>
-<a href="https://fb.com/marufibnehossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="40" width="40" /></a>
-<a href="https://instagram.com/marufibnehossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="40" /></a>
-</p>
+- Twitter: https://twitter.com/marufibnhossain  
+- LinkedIn: https://linkedin.com/in/marufibnhossain  
+- GitHub: https://github.com/marufibnehossain  
+- Facebook: https://fb.com/marufibnehossain  
+- Instagram: https://instagram.com/marufibnehossain
 
 ---
 
