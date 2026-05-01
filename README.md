@@ -92,7 +92,7 @@ I'm a passionate **Front-end Developer** with **3+ years of experience** buildin
 
 ## 🔗 Connect with Me
 
-<p align="left" display="flex">
+<p align="left" style="display: flex; gap: 15px;">
   <a href="https://twitter.com/marufibnhossain" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
   </a>&nbsp;&nbsp;
