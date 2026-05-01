@@ -30,7 +30,7 @@ I'm a passionate **Front-end Developer** with **3+ years of experience** buildin
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/4xKDY4Pz7lCPjRKYGG/giphy.gif?cid=790b761135c957f21dc69b8025e6a5dd2c4101855bc53865&rid=giphy.gif&ct=g">
+<!-- <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/4xKDY4Pz7lCPjRKYGG/giphy.gif?cid=790b761135c957f21dc69b8025e6a5dd2c4101855bc53865&rid=giphy.gif&ct=g"> -->
 
 ## 🚀 Featured Projects
 
@@ -84,7 +84,7 @@ I'm a passionate **Front-end Developer** with **3+ years of experience** buildin
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marufibnehossain&show_icons=true&locale=en&layout=compact" alt="marufibnehossain" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=marufibnehossain&show_icons=true&locale=en" alt="marufibnehossain" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=marufibnehossain&show_icons=true&locale=en" alt="marufibnehossain" /> -->
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marufibnehossain&" alt="marufibnehossain" />
 
@@ -92,7 +92,7 @@ I'm a passionate **Front-end Developer** with **3+ years of experience** buildin
 
 ## 🔗 Connect with Me
 
-<p align="center">
+<p align="left" display="flex">
   <a href="https://twitter.com/marufibnhossain" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
   </a>&nbsp;&nbsp;
