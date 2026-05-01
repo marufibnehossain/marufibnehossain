@@ -8,9 +8,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/4xKDY4Pz7lCPjRKYGG/giphy.gif?cid=790b761135c957f21dc69b8025e6a5dd2c4101855bc53865&rid=giphy.gif&ct=g">
 
-- 🔭 I’m currently working on **Tech Bucket**
+- 🔭 I’m currently working on **Arvion Studio**
 
-- 🌱 I’m currently learning **MERN, React Native.**
+- 🌱 I’m currently learning **MERN, React Native, WordPress.**
 
 - 💬 Ask me about **React, Tailwind etc.**
 
