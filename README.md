@@ -82,39 +82,39 @@ I'm a passionate **Front-end Developer** with **3+ years of experience** buildin
 
 ## 📊 GitHub Statistics
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marufibnehossain&show_icons=true&locale=en&layout=compact&theme=dark" alt="marufibnehossain" />
-</p>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marufibnehossain&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+</div>
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marufibnehossain&show_icons=true&locale=en&theme=dark" alt="marufibnehossain" />
-</p>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=marufibnehossain&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+</div>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marufibnehossain&theme=dark" alt="marufibnehossain" />
-</p>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=marufibnehossain&theme=dark" alt="GitHub Streak" />
+</div>
 
 ---
 
 ## 🔗 Connect with Me
 
-<p align="left">
-  <a href="https://twitter.com/marufibnhossain" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; align-items: center;">
+  <a href="https://twitter.com/marufibnhossain" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
   </a>
-  <a href="https://linkedin.com/in/marufibnhossain" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+  <a href="https://linkedin.com/in/marufibnhossain" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
-  <a href="https://codesandbox.com/marufibnehossain" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="CodeSandbox" height="40" width="40" />
+  <a href="https://codesandbox.com/marufibnehossain" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="CodeSandbox" height="40" width="40" />
   </a>
-  <a href="https://fb.com/marufibnehossain" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
+  <a href="https://fb.com/marufibnehossain" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
   </a>
-  <a href="https://instagram.com/marufibnehossain" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
+  <a href="https://instagram.com/marufibnehossain" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>
-</p>
+</div>
 
 ---
 
