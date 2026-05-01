@@ -84,7 +84,7 @@ I'm a passionate **Front-end Developer** with **3+ years of experience** buildin
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marufibnehossain&show_icons=true&locale=en&layout=compact" alt="marufibnehossain" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=marufibnehossain&show_icons=true&locale=en" alt="marufibnehossain" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=marufibnehossain&show_icons=true&locale=en" alt="marufibnehossain" /> -->
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marufibnehossain&" alt="marufibnehossain" />
 
@@ -93,10 +93,10 @@ I'm a passionate **Front-end Developer** with **3+ years of experience** buildin
 ## 🔗 Connect with Me
 
 <p align="center">
-<a href="https://twitter.com/marufibnhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/marufibnhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://codesandbox.com/marufibnehossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="codesandbox" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://fb.com/marufibnehossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/marufibnhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/marufibnhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" /></a>
+<a href="https://codesandbox.com/marufibnehossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="codesandbox" height="40" width="40" /></a>
+<a href="https://fb.com/marufibnehossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="40" width="40" /></a>
 <a href="https://instagram.com/marufibnehossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="40" /></a>
 </p>
 
