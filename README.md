@@ -90,9 +90,11 @@ I'm a passionate **Front-end Developer** with **3+ years of experience** buildin
 
 ## 📊 GitHub Statistics
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marufibnehossain&show_icons=true&locale=en&layout=compact" alt="marufibnehossain" />
+<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marufibnehossain&theme=github" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marufibnehossain&" alt="marufibnehossain" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marufibnehossain&theme=github" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marufibnehossain" alt="marufibnehossain" />
 
 ---
 
