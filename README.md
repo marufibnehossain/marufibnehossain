@@ -8,15 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=marufibnehossain&label=Profile%20views&color=0e75b6&style=flat" alt="marufibnehossain" />
 </p>
 
-## 📊 GitHub Statistics
-
-- 🔭 Public repositories: 10+
-- 🌱 Currently learning: Next.js, Advanced MERN Stack
-- 💻 Main languages: JavaScript, TypeScript, Python
-- 🚀 Interested in: Full-stack development and scalable web applications
-
----
-
 ## 📋 About Me
 
 I'm a passionate **Front-end Developer** with **3+ years of experience** building scalable web applications. Currently working as a Web Developer at **Arvion Studio**, where I develop responsive and user-centric digital solutions. I'm also a teacher and mentor, dedicated to helping others grow in web development.
