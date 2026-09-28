@@ -1,6 +1,6 @@
 <div align="center"><img alt="banner" width="700" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"></div>
 
-<h1 align="center">Hello 👋, I'm Maruf Ibne Hossain</h1>
+<h1 align="center">Hello 👋, I'm Maruf</h1>
 
 <h3 align="center">Front-end Developer | Web Developer at Arvion Studio | MERN Specialist | CSE Graduate</h3>
 
