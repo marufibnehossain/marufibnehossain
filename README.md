@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=marufibnehossain&theme=flat&no-frame=true" />
+  <img src="https://github.com/users/marufibnehossain/contributions" />
 </p>
 
 ---
