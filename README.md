@@ -35,8 +35,8 @@ I'm a passionate **Front-end Developer** with **3+ years of experience** buildin
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
 | **[Portfolio React](https://github.com/marufibnehossain/Portfolio_React)** | Professional portfolio showcasing my projects and skills | React, Tailwind CSS, Responsive Design |
-| **[Craftkit](https://github.com/marufibnehossain/Craftkit)** | E-commerce platform with modern UI/UX | MERN Stack, MongoDB, Node.js |
-| **[Spinkit Shop](https://github.com/marufibnehossain/Spinkit-Shop)** | Full-featured shopping application | React, Express, Backend Integration |
+| **[DevStack](https://github.com/marufibnehossain/DevStack-SPA)** | Skill stacking platform with modern UI/UX | MERN Stack, Node.js |
+| **[FitLog](https://github.com/marufibnehossain/Fit-Log)** | Full-featured fitness logging application | Next.js |
 
 <!-- <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/4xKDY4Pz7lCPjRKYGG/giphy.gif?cid=790b761135c957f21dc69b8025e6a5dd2c4101855bc53865&rid=giphy.gif&ct=g"> -->
 
