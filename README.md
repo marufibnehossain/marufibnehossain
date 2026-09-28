@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marufibnehossain&theme=github-compact" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marufibnehossain&show_icons=true&theme=transparent" />
 </p>
 
 ---
