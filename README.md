@@ -8,9 +8,12 @@
   <img src="https://komarev.com/ghpvc/?username=marufibnehossain&label=Profile%20views&color=0e75b6&style=flat" alt="marufibnehossain" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/users/marufibnehossain/contributions" />
-</p>
+## 📊 GitHub Statistics
+
+- 🔭 Public repositories: 10+
+- 🌱 Currently learning: Next.js, Advanced MERN Stack
+- 💻 Main languages: JavaScript, TypeScript, Python
+- 🚀 Interested in: Full-stack development and scalable web applications
 
 ---
 
